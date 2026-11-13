@@ -25,3 +25,5 @@ Plutôt que de me contenter des alertes par défaut, j'ai créé une **règle pe
     </mitre>
   </rule>
 </group>
+
+<img width="1920" height="925" alt="FireShot Capture 096 - Wazuh -  127 0 0 1" src="https://github.com/user-attachments/assets/a8831fd0-d184-4af9-ab07-4a68f945a6a7" />
