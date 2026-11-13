@@ -25,5 +25,3 @@ Plutôt que de me contenter des alertes par défaut, j'ai créé une **règle pe
     </mitre>
   </rule>
 </group>
-
-![Dashboard Wazuh - Alerte Brute-Force](https://github.com/user-attachments/assets/a8831fd0-d184-4af9-ab07-4a68f945a6a7)
